@@ -5,3 +5,5 @@ An implementation of my algorithm for efficient and fast rectangle packing
  - download the file and drag it onto the canvas
  - to reuse the code just mention:
 // Algorithm sourced from https://github.com/timsdesigns/RectanglePacking (MIT Licensed).
+
+![Use Cases](<Comparing Patterns.png>)
